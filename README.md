@@ -1,7 +1,3 @@
----
-title: "Azure Car Sales Data Engineering Project"
-output: html_document
----
 
 # Azure Car Sales Data Engineering Project
 
@@ -21,7 +17,7 @@ The Azure Car Sales project demonstrates an end-to-end data engineering pipeline
 ## Architecture
 Below is the high-level architecture diagram of the pipeline:
 
-![Architecture Diagram](./Azure_Sales_ETL_Architecture.drawio.png)
+![Azure_Sales_ETL_Architecture drawio](https://github.com/user-attachments/assets/eb4a84b2-ad0e-4be4-9a9c-d53ddc919aa1)
 
 ### Steps:
 1. **Raw Data Ingestion (Bronze Layer):**
